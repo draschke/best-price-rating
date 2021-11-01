@@ -7,7 +7,7 @@ let email = "draschke@googlemail.com";
 
 module.exports = {
   lang: "en-US",
-  title: "Best price rating domain (www.best-price-rating.com) for sale",
+  title: "Domain www.best-price-rating.com for sale",
   description: "Best price rating domain (www.best-price-rating.com) for sale",
   // base: "/best-price-rating/",
   head: [
